@@ -175,6 +175,3 @@ Follow the pin instructions in the 「Hardware Preparation」section to connect 
 2. Stability Optimization:
    - For long-term use, add heat sinks to the ESP8266 and Arduino Mega to prevent overheating.
    - Use a local LAN MQTT server (e.g., Mosquitto) instead of a public network server to avoid latency issues.
-3. Expansion Suggestions:
-   - Add a mobile app (e.g., using MQTT.fx or a custom app) for more intuitive remote control.
-   - Integrate a smoke sensor or gas sensor to expand safety monitoring functions.
